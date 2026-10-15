@@ -1,0 +1,9 @@
+hub,city,country,only_link_to_2014,nonstop_from_Bangkok_2026,airlines_seen,departure_date_searched,checked_on,source
+MAD,Madrid,Spain,"Bolivia, Costa Rica, Guatemala, Uruguay",Y,Iberojet,2027-02-05,2026-10-03,Google Flights (Non-stop filter)
+CDG,Paris,France,"Guadeloupe, Martinique, Mauritania",Y,Air France; Thai Airways,2026-11-16,2026-10-03,Google Flights (Non-stop filter)
+FRA,Frankfurt,Germany,"Jamaica, Puerto Rico, Trinidad and Tobago",Y,Condor; Thai Airways,2026-10-05,2026-10-03,Google Flights (Non-stop filter)
+AMS,Amsterdam,Netherlands,Aruba,Y,Thai Airways; KLM,2026-10-15,2026-10-03,Google Flights (Non-stop filter)
+LHR,London,United Kingdom,Bahamas,Y,Thai Airways,2026-10-22,2026-10-03,Google Flights (Non-stop filter)
+CPH,Copenhagen,Denmark,Greenland,Y,Thai Airways; SAS,2026-11-13,2026-10-03,Google Flights (Non-stop filter)
+OSL,Oslo,Norway,Slovakia,Y,Norse Atlantic; Thai Airways,2027-01-29,2026-10-03,Google Flights (Non-stop filter)
+BNE,Brisbane,Australia,Solomon Islands,Y,Jetstar,2026-11-05,2026-10-03,Google Flights (Non-stop filter)

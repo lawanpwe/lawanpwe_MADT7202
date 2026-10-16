@@ -6,7 +6,7 @@ Paweena Lawan (Dao) · 6810424024
 **Run the notebook in Colab:** https://colab.research.google.com/drive/1WOo4I_1XuAkZx0GXonI8g9ysdZ5dzNx5?usp=sharing
 
 ## The question
-The product manager of a Thai tour operator selling Latin America and Caribbean trips decides which transit hubs need a backup route.
+The tour operations manager of a Thai tour operator selling Latin America and Caribbean trips decides which transit hubs need a backup route.
 Ranking hubs by size is a simple count. The real question is which markets are lost when one hub goes, and that depends on whether another hub reaches the same market: a network-overlap question.
 
 ## Main result
